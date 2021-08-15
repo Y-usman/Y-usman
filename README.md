@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Y-usman
+- 👋 Hi, I’m @Yusuf usman
 - 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning introduction to AI
 - 💞️ I’m looking to collaborate on lots of useful projects
