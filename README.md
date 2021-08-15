@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on lots of useful projects
 - 📫 How to reach me 
 Email : adewalearemu17@gmail.com
-Whatsapp : +2348140131091
 
 <!---
 Y-usman/Y-usman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
