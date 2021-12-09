@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yusuf usman
-- 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning introduction to AI
+- 👀 I’m interested in Data Science/Machine Learning
+- 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on lots of useful projects
 - 📫 How to reach me 
 Email : adewalearemu17@gmail.com
