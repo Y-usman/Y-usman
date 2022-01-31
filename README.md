@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on lots of useful projects
 - 📫 How to reach me 
-Email : adewalearemu17@gmail.com
+Email : uthmanyusuf1998@gmail.com | adewalearemu17@gmail.com
+Twitter: @_yusuf_usman
+IG: @dev_yusman
 
 <!---
 Y-usman/Y-usman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
