@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on lots of useful projects
 - 📫 How to reach me
--  Email : dev_yusuf_usman@gmail.com
+-  Email : dev.yusuf.usman@gmail.com
 - Twitter: @_yusuf_usman
 - IG: @dev_yusman
 
