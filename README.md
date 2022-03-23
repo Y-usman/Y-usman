@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yusuf usman
-- 👀 I’m interested in Data Science/Machine Learning
+- 👀 I’m interested in .....
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on lots of useful projects
 - 📫 How to reach me
