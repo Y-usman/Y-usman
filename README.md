@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Yusuf usman
-- 👀 I’m interested in Web Dev, AI and Tech at large.
-- 🌱 I’m currently learning Full-stack Web Developement & Data Science
-- 💞️ I’m looking to collaborate on lots of useful projects
+- 👀 I’m interested in Web Dev, AI and Tech.
+- 🌱 I’m currently learning Full-stack Web Development & Data Science
+- 💞️ I’m looking to collaborate on lots of valuable projects
 - 📫 How to reach me
--  Email : dev.yusuf.usman@gmail.com
+-  Email: dev.yusuf.usman@gmail.com
 - Twitter: @_yusuf_usman
 - IG: @dev_yusman
 
